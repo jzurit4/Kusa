@@ -15,7 +15,7 @@ Este es un reproductor de música web moderno y funcional, construido con Django
 
 ## 📷 Vista previa
 
-![screenshot](https://imgur.com/E9KFTM5)
+![screenshot](https://i.imgur.com/E9KFTM5.png)
 
 ## 🛠️ Tecnologías usadas
 
